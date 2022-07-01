@@ -1,0 +1,193 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(images/templatemo_body.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    margin: auto;
+    padding: 0px;
+    color: #a29e99;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    line-height: 1.5em;
+    background-color: #000000;
+    background-position: top center;
+}
+.header{
+    width: 960px;
+    height: 101px;
+    margin: auto;
+    background-image: url(images/templatemo_header.png);
+    margin: auto;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.menu{
+    background-image: url(images/templatemo_menu.png);
+    width: 780px;
+    height: 40px;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0px 90px;
+    color: #a29e99;
+    font-size: 12px;
+    
+}
+.submenu {
+    float: left;
+    display: block;
+    width: 100px;
+    height: 0px;
+    padding: 10px 0 0 0;
+    margin-right: 1px;
+    color: #3f3228;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+ul.navigation{
+    color: #000;
+    text-shadow: 1px 1px 1px #fed8ae;
+    background: url(../images/templatemo_menu_hover.png) repeat-x;
+}
+.content{
+    clear: both;
+    width: 700px;
+    height: 360px;
+    padding: 80px 130px 52px 130px;
+    background: url(images/templatemo_body.png) no-repeat;
+    margin: auto;
+}
+.content-1{
+    color: greenyellow; 
+    margin: auto;
+    font-size: 30px ;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;   
+    margin-bottom: 20px;
+    width: 320px;
+    height: 30px;
+}
+.content-2{
+    color: greenyellow; 
+    margin-right: 150px; 
+    margin-top: 40px;
+    float: right;
+    font-size: 30px ;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;   
+}
+ul.navigation a:hover,
+ul.navigation .submenu:hover {
+    color: #000;
+    text-shadow: 1px 1px 1px #fed8ae;
+    background: url(../images/templatemo_menu_hover.png) ;
+    text-decoration: none;
+}
+.footer{
+    width: 700px;
+    height: 18px;
+    color: #c4af9e;
+    padding: 20px 130px;
+    text-align: center;
+    margin: auto;
+}
+.leftbar{
+    width: 320px;
+    height: 364px;
+    float: left;
+}
+.rightbar{
+    width: 320px;
+    height: 337px;
+    float: right;
+}
+.image-coffe{
+    border: 1px ;
+    padding: 4px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 130px;
+}
+.list{
+    width: 305px;
+    height: 25px;
+    margin-bottom: 12px;
+    padding-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EF8412;
+}
+div.service_list{
+    margin: 30px 0px 0px 15px;
+    padding: 0;
+    color: #EF8412;
+    list-style: none;
+    width: 305px;
+    height: 173px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+}
+a.service_one{
+    width: 305px;
+    height: 25px;
+    color: #EF8412;
+    font: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 0px 0px 0px 20px;
+    text-decoration: none;
+    background-image: url(images/onebit_08.png) center left no-repeat;
+}
+a.service_two{
+    width: 305px;
+    height: 25px;
+    color: #EF8412;
+    font: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 0px 0px 0px 20px;
+    text-decoration: none;
+}
+a.service_three{
+    width: 305px;
+    height: 25px;
+    color: #EF8412;
+    font: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 0px 0px 0px 20px;
+    text-decoration: none;
+}
+a.service_four{
+    width: 305px;
+    height: 25px;
+    color: #EF8412;
+    font: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 0px 0px 0px 20px;
+    text-decoration: none;
+}
+a.service_five{
+    width: 305px;
+    height: 25px;
+    color: #EF8412;
+    font: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding: 0px 0px 0px 20px;
+    text-decoration: none;
+}
+.service_list p a {
+    vertical-align: top;
+    margin-left: 10px;
+}
